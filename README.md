@@ -1,7 +1,7 @@
 ## Hi I'm SeungWon 👋
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
-<h3>📚 Tech Stacks 📚</h3>
+<p align="center"><h3>📚 Tech Stacks 📚</h3></p>
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
