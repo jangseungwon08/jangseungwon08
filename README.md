@@ -4,7 +4,6 @@
 <h2>📚 Tech Stacks 📚</h1>
 
 <p align="center"><b>📚 Languages 📚</b></p>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -12,7 +11,6 @@
 </p>
 
 <h3 align="center"><b>📚 Database 📚</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
