@@ -17,7 +17,7 @@
 </br>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp                <!-- 스프링 -->
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Apache Kafka-%3333333.svg?style=flat-square&logo=Apache Kafka&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Apache-Kafka-%3333333.svg?style=flat-square&logo=Apache Kafka&logoColor=white"></a>&nbsp
 </br>
   <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>&nbsp                  <!-- 리눅스 -->
   <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/></a>&nbsp 
