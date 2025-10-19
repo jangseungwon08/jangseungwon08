@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp      
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white">
 </p>
 <h2 align = "center">🌴Stats</h2>
 <p align = "center">
