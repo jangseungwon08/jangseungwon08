@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white">
 </p>
-<h3 align = "center">🌴My Stats🌴</h3>
+<h2 align = "center">🌴My Stats🌴</h2>
 <p align = "center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
