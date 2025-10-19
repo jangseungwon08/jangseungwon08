@@ -36,7 +36,9 @@
 <h3>🤖Data/AI</h3>
 <p>
   <img src="https://img.shields.io/badge/Apache_Kafka-333333.svg?style=flat-square&logo=apachekafka&logoColor=white"></a>&nbsp   
-  <img src="https://img.shields.io/badge/yolo-111F68svg?style=flat-square&logo=yolo&logoColor=white">
+  <img src="https://img.shields.io/badge/yolo-111F68svg?style=flat-square&logo=yolo&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/numpy-013243svg?style=flat-square&logo=numpy&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/opencv-5C3EE8svg?style=flat-square&logo=opencv&logoColor=white"></a>&nbsp
 </p>
 
 <h3>👨🏻‍💻CoworkTools</h3>
@@ -44,7 +46,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp      
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/notion-#000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp 
+  <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp 
 </p>
 <h2 align = "center">🌴Stats</h2>
 <p align = "center">
