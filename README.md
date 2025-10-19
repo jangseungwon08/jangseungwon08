@@ -51,7 +51,7 @@
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </p>
-<h2 align = "center">🌴Stats</h2>
+<h2>🌴Stats</h2>
 <p align = "center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
