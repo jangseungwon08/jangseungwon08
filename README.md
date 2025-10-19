@@ -33,9 +33,10 @@
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"></a>&nbsp    
 </p>
 
-<h3>📨MessageQueue</h3>
+<h3>🤖Data/AI</h3>
 <p>
-  <img src="https://img.shields.io/badge/Apache_Kafka-333333.svg?style=flat-square&logo=apachekafka&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache_Kafka-333333.svg?style=flat-square&logo=apachekafka&logoColor=white"></a>&nbsp   
+  <img src="https://img.shields.io/badge/yolo-111F68svg?style=flat-square&logo=yolo&logoColor=white">
 </p>
 
 <h3>👨🏻‍💻CoworkTools</h3>
