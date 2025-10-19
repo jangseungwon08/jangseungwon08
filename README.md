@@ -8,7 +8,6 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"></a>&nbsp
 </p>
 
-</br>
 <h3>🗄️Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp       
@@ -16,7 +15,6 @@
   <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
 </p>
-</br>
 
 <h3>🛢Database</h3>
 <p>
@@ -24,7 +22,6 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=flat-square&logo=mariaDB&logoColor=white"/></a>&nbsp             
   <img src="https://img.shields.io/badge/postgresql-4169E1?style=flat-square&logo=postgresql&logoColor=white"/></a>&nbsp      
 </p>
-</br>
 
 <h3>🚀Deploy</h3>
 <p>
@@ -35,12 +32,12 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"></a>&nbsp      
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"></a>&nbsp    
 </p>
-</br>
+
 <h3>📨MessageQueue</h3>
 <p>
   <img src="https://img.shields.io/badge/Apache_Kafka-333333.svg?style=flat-square&logo=apachekafka&logoColor=white">
 </p>
-</br>
+
 <h3>👨🏻‍💻CoworkTools</h3>
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp      
