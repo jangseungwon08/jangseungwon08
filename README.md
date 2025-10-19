@@ -1,7 +1,4 @@
 ## Hi I'm SeungWon 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 <h2>📚 Tech Stack 📚</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp       
@@ -30,9 +27,10 @@
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp      
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white">
-  
-
 </p>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
