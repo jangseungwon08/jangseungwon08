@@ -30,7 +30,9 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat-square&logo=Amazon%20EC2&logoColor=white"></a>&nbsp      
-  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"></a>&nbsp    
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&logo=Amazon%20S3&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/argo-EF7B4D?style=flat-square&logo=argo&logoColor=white"></a>&nbsp
 </p>
 
 <h3>🤖Data/AI</h3>
@@ -45,7 +47,6 @@
 <p>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>&nbsp      
   <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"></a>&nbsp
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=jenkins&logoColor=white"></a>&nbsp
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"></a>&nbsp 
 </p>
 <h2 align = "center">🌴Stats</h2>
