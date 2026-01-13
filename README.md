@@ -41,14 +41,6 @@
   <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white">
 </p>
-<h2>🌴Stats</h2>
-<p align = "center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangseungwon08)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
 <!--
 **jangseungwon08/jangseungwon08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
